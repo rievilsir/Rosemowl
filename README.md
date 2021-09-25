@@ -48,7 +48,7 @@ $ node anu.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Brutal-sir/AnuMwol">
+  <a href="https://github.com/rievilsir/Rosemowl/edit/master/README.md">
     
 <a href="https://github.com/Brutal-sir/followers">
 <img src="https://img.shields.io/github/repo-size/Brutal-sir/AnuMwol?color=green&label=Repo%20total%20size&style=plastic">
